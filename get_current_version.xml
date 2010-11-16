@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<versions>
+
+
+<version>
+    <platform>Windows</platform>
+    <dbplatform>windows_intelx86</dbplatform>
+    <description>Recommended version</description>
+    <date>6 July 2010</date>
+    <version_num>6.10.58</version_num>
+    <url>http://boinc.berkeley.edu/dl/boinc_6.10.58_windows_intelx86.exe</url>
+    <filename>boinc_6.10.58_windows_intelx86.exe</filename>
+    <size_mb>7.22</size_mb>
+    <installer>Windows installer</installer>
+</version>
+
+<version>
+    <platform>Windows</platform>
+    <dbplatform>windows_intelx86</dbplatform>
+    <description>Older version (also works on Windows 98, Windows ME)</description>
+    <date>28 Oct 2009</date>
+    <version_num>6.6.38</version_num>
+    <url>http://boinc.berkeley.edu/dl/boinc_6.6.38_windows_intelx86.exe</url>
+    <filename>boinc_6.6.38_windows_intelx86.exe</filename>
+    <size_mb>6.69</size_mb>
+    <installer>Windows installer</installer>
+</version>
+
+<version>
+    <platform>Windows</platform>
+    <dbplatform>windows_intelx86</dbplatform>
+    <description>Older version (also works on Windows 95 and NT 4.0)</description>
+    <date>1 Mar 2007</date>
+    <version_num>5.8.16</version_num>
+    <url>http://boinc.berkeley.edu/dl/boinc_5.8.16_windows_intelx86.exe</url>
+    <filename>boinc_5.8.16_windows_intelx86.exe</filename>
+    <size_mb>8.36</size_mb>
+    <installer>Windows installer</installer>
+</version>
+
+<version>
+    <platform>Windows 64-bit</platform>
+    <dbplatform>windows_x86_64</dbplatform>
+    <description>Recommended version</description>
+    <date>6 July 2010</date>
+    <version_num>6.10.58</version_num>
+    <url>http://boinc.berkeley.edu/dl/boinc_6.10.58_windows_x86_64.exe</url>
+    <filename>boinc_6.10.58_windows_x86_64.exe</filename>
+    <size_mb>8.77</size_mb>
+    <installer>Windows installer</installer>
+</version>
+
+<version>
+    <platform>Windows 64-bit</platform>
+    <dbplatform>windows_x86_64</dbplatform>
+    <description>Older version</description>
+    <date>28 Oct 2009</date>
+    <version_num>6.6.38</version_num>
+    <url>http://boinc.berkeley.edu/dl/boinc_6.6.38_windows_x86_64.exe</url>
+    <filename>boinc_6.6.38_windows_x86_64.exe</filename>
+    <size_mb>7.23</size_mb>
+    <installer>Windows installer</installer>
+</version>
+
+<version>
+    <platform>Mac OS X</platform>
+    <dbplatform>powerpc-apple-darwin</dbplatform>
+    <description>Recommended version (standard GUI)</description>
+    <date>6 July 2010</date>
+    <version_num>6.10.58</version_num>
+    <url>http://boinc.berkeley.edu/dl/boinc_6.10.58_macOSX_universal.zip</url>
+    <filename>boinc_6.10.58_macOSX_universal.zip</filename>
+    <size_mb>6.84</size_mb>
+    <installer>Standard GUI</installer>
+</version>
+
+<version>
+    <platform>Mac OS X</platform>
+    <dbplatform>powerpc-apple-darwin</dbplatform>
+    <description>Recommended version (Unix command-line version)</description>
+    <date>6 July 2010</date>
+    <version_num>6.10.58</version_num>
+    <url>http://boinc.berkeley.edu/dl/boinc_6.10.58_universal-apple-darwin.zip</url>
+    <filename>boinc_6.10.58_universal-apple-darwin.zip</filename>
+    <size_mb>0.93</size_mb>
+    <installer>Core client only (command-line)</installer>
+</version>
+
+<version>
+    <platform>Mac OS X</platform>
+    <dbplatform>powerpc-apple-darwin</dbplatform>
+    <description>Older version (standard GUI)</description>
+    <date>1 Dec 2009</date>
+    <version_num>6.10.21</version_num>
+    <url>http://boinc.berkeley.edu/dl/boinc_6.10.21_macOSX_universal.zip</url>
+    <filename>boinc_6.10.21_macOSX_universal.zip</filename>
+    <size_mb>7.04</size_mb>
+    <installer>Standard GUI</installer>
+</version>
+
+<version>
+    <platform>Mac OS X</platform>
+    <dbplatform>powerpc-apple-darwin</dbplatform>
+    <description>Older version (Unix command-line version)</description>
+    <date>1 Dec 2009</date>
+    <version_num>6.10.21</version_num>
+    <url>http://boinc.berkeley.edu/dl/boinc_6.10.21_universal-apple-darwin.zip</url>
+    <filename>boinc_6.10.21_universal-apple-darwin.zip</filename>
+    <size_mb>1.24</size_mb>
+    <installer>Core client only (command-line)</installer>
+</version>
+
+<version>
+    <platform>Mac OS X</platform>
+    <dbplatform>powerpc-apple-darwin</dbplatform>
+    <description>Older version (standard GUI) (works on OS 10.3.9 - OS 10.5.8)</description>
+    <date>10 June 2009</date>
+    <version_num>6.6.36</version_num>
+    <url>http://boinc.berkeley.edu/dl/boinc_6.6.36_macOSX_universal.zip</url>
+    <filename>boinc_6.6.36_macOSX_universal.zip</filename>
+    <size_mb>6.06</size_mb>
+    <installer>Standard GUI</installer>
+</version>
+
+<version>
+    <platform>Mac OS X</platform>
+    <dbplatform>powerpc-apple-darwin</dbplatform>
+    <description>Older version (Unix command-line version) (works on OS 10.3.9 - OS 10.5.8)</description>
+    <date>10 June 2009</date>
+    <version_num>6.6.36</version_num>
+    <url>http://boinc.berkeley.edu/dl/boinc_6.6.36_universal-apple-darwin.zip</url>
+    <filename>boinc_6.6.36_universal-apple-darwin.zip</filename>
+    <size_mb>1.20</size_mb>
+    <installer>Core client only (command-line)</installer>
+</version>
+
+<version>
+    <platform>Linux x86</platform>
+    <dbplatform>i686-pc-linux-gnu</dbplatform>
+    <description>Recommended version</description>
+    <date>4 Aug 2010</date>
+    <version_num>6.10.58</version_num>
+    <url>http://boinc.berkeley.edu/dl/boinc_6.10.58_i686-pc-linux-gnu.sh</url>
+    <filename>boinc_6.10.58_i686-pc-linux-gnu.sh</filename>
+    <size_mb>4.39</size_mb>
+    <installer>Self-extracting archive</installer>
+</version>
+
+<version>
+    <platform>Linux x86</platform>
+    <dbplatform>i686-pc-linux-gnu</dbplatform>
+    <description>Older version</description>
+    <date>22 Oct 2009</date>
+    <version_num>6.6.41</version_num>
+    <url>http://boinc.berkeley.edu/dl/boinc_6.6.41_i686-pc-linux-gnu.sh</url>
+    <filename>boinc_6.6.41_i686-pc-linux-gnu.sh</filename>
+    <size_mb>3.89</size_mb>
+    <installer>Self-extracting archive</installer>
+</version>
+
+<version>
+    <platform>Linux x64</platform>
+    <dbplatform>x86_64-pc-linux-gnu</dbplatform>
+    <description>Recommended version</description>
+    <date>4 Aug 2010</date>
+    <version_num>6.10.58</version_num>
+    <url>http://boinc.berkeley.edu/dl/boinc_6.10.58_x86_64-pc-linux-gnu.sh</url>
+    <filename>boinc_6.10.58_x86_64-pc-linux-gnu.sh</filename>
+    <size_mb>4.58</size_mb>
+    <installer>Self-extracting archive</installer>
+</version>
+
+<version>
+    <platform>Linux x64</platform>
+    <dbplatform>x86_64-pc-linux-gnu</dbplatform>
+    <description>Older version</description>
+    <date>22 Oct 2009</date>
+    <version_num>6.6.41</version_num>
+    <url>http://boinc.berkeley.edu/dl/boinc_6.6.41_x86_64-pc-linux-gnu.sh</url>
+    <filename>boinc_6.6.41_x86_64-pc-linux-gnu.sh</filename>
+    <size_mb>4.06</size_mb>
+    <installer>Self-extracting archive</installer>
+</version>
+
+<version>
+    <platform>Older Linux x86 and x64</platform>
+    <dbplatform>i686-pc-linux-gnu</dbplatform>
+    <description>Recommended version</description>
+    <date>22 Oct 2009</date>
+    <version_num>6.6.41</version_num>
+    <url>http://boinc.berkeley.edu/dl/boinc_compat_6.6.41_i686-pc-linux-gnu.sh</url>
+    <filename>boinc_compat_6.6.41_i686-pc-linux-gnu.sh</filename>
+    <size_mb>1.62</size_mb>
+    <installer>Self-extracting archive</installer>
+</version>
+
+<version>
+    <platform>Older Linux x86 and x64</platform>
+    <dbplatform>i686-pc-linux-gnu</dbplatform>
+    <description>Older version</description>
+    <date>9 Dec 2008</date>
+    <version_num>6.4.5</version_num>
+    <url>http://boinc.berkeley.edu/dl/boinc_compat_6.4.5_i686-pc-linux-gnu.sh</url>
+    <filename>boinc_compat_6.4.5_i686-pc-linux-gnu.sh</filename>
+    <size_mb>1.16</size_mb>
+    <installer>Self-extracting archive</installer>
+</version>
+
+</versions>
+

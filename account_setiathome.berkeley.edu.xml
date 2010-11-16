@@ -1,0 +1,71 @@
+<account>
+    <master_url>http://setiathome.berkeley.edu/</master_url>
+    <authenticator>4c99b45c685730324ebb9185a3ebb717</authenticator>
+    <project_name>SETI@home</project_name>
+<project_preferences>
+<resource_share>100</resource_share>
+<project_specific>
+<format_preset>Panels</format_preset>
+        <text_style>Panels</text_style>
+        <graph_style>Surface</graph_style>
+        <max_fps>30</max_fps>
+        <max_cpu>50</max_cpu>
+        <grow_time>10</grow_time>
+        <hold_time>5</hold_time>
+        <graph_alpha>0.7</graph_alpha>
+        <roll_period>10</roll_period>
+        <roll_range>20</roll_range>
+        <pitch_period>30</pitch_period>
+        <pitch_range>30</pitch_range>
+        <starfield_size>2000</starfield_size>
+        <starfield_speed>40</starfield_speed>
+        <color_preset>Rainbow</color_preset>
+        <start_hue>0</start_hue>
+        <hue_change>1</hue_change>
+</project_specific>
+</project_preferences>
+<gui_urls>
+    <gui_url>
+        <name>Message boards</name>
+        <description>Correspond with other users on the SETI@home message boards</description>
+        <url>http://setiathome.berkeley.edu/forum_index.php</url>
+    </gui_url>
+    <gui_url>
+        <name>Help</name>
+        <description>Ask questions and report problems</description>
+        <url>http://setiathome.berkeley.edu/forum_help_desk.php</url>
+    </gui_url>
+    <gui_url>
+        <name>Your account</name>
+        <description>View your account information and credit totals</description>
+        <url>http://setiathome.berkeley.edu/show_user.php?userid=3281223</url>
+    </gui_url>
+    <gui_url>
+        <name>Your preferences</name>
+        <description>View and modify your SETI@home account profile and preferences</description>
+        <url>http://setiathome.berkeley.edu/home.php</url>
+    </gui_url>
+    <gui_url>
+        <name>Your results</name>
+        <description>View your last week (or more) of computational results and work</description>
+        <url>http://setiathome.berkeley.edu/results.php?userid=3281223</url>
+    </gui_url>
+    <gui_url>
+        <name>Your computers</name>
+        <description>View a listing of all the computers on which you are running SETI@Home</description>
+        <url>http://setiathome.berkeley.edu/hosts_user.php?userid=3281223</url>
+    </gui_url>
+    <ifteam>
+        <gui_url>
+            <name>Your team</name>
+            <description>View information about your team: Team China</description>
+            <url>http://setiathome.berkeley.edu/team_display.php?teamid=30289</url>
+        </gui_url>
+    </ifteam>
+    <gui_url>
+        <name>Donate</name>
+        <description>Donate to SETI@home</description>
+        <url>http://setiathome.berkeley.edu/sah_donate.php</url>
+    </gui_url>
+</gui_urls>
+</account>

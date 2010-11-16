@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<project_config>
+    <name>SETI@home</name>
+    <master_url>http://setiathome.berkeley.edu/</master_url>
+<local_revision>20843</local_revision>
+<web_stopped>0</web_stopped>
+
+    <min_passwd_length>6</min_passwd_length>
+<sched_stopped>0</sched_stopped>
+<platforms>
+  <platform>
+    <platform_name>i686-apple-darwin</platform_name>
+    <user_friendly_name>Mac OS X/Intel</user_friendly_name>
+  </platform>
+  <platform>
+    <platform_name>i686-pc-linux-gnu</platform_name>
+    <user_friendly_name>Linux/x86</user_friendly_name>
+  </platform>
+  <platform>
+    <platform_name>powerpc-apple-darwin</platform_name>
+    <user_friendly_name>Mac OS/X 10.3+</user_friendly_name>
+  </platform>
+  <platform>
+    <platform_name>sparc-sun-solaris</platform_name>
+    <user_friendly_name>SPARC/Solaris</user_friendly_name>
+  </platform>
+  <platform>
+    <platform_name>sparc-sun-solaris2.7</platform_name>
+    <user_friendly_name>SPARC/Solaris</user_friendly_name>
+  </platform>
+  <platform>
+    <platform_name>windows_intelx86</platform_name>
+    <user_friendly_name>Windows/x86</user_friendly_name>
+  </platform>
+  <platform>
+    <platform_name>windows_intelx86</platform_name>
+    <user_friendly_name>Windows/x86</user_friendly_name>
+   <plan_class>cuda</plan_class>
+  </platform>
+  <platform>
+    <platform_name>windows_intelx86</platform_name>
+    <user_friendly_name>Windows/x86</user_friendly_name>
+   <plan_class>cuda23</plan_class>
+  </platform>
+  <platform>
+    <platform_name>windows_intelx86</platform_name>
+    <user_friendly_name>Windows/x86</user_friendly_name>
+   <plan_class>cuda_fermi</plan_class>
+  </platform>
+  <platform>
+    <platform_name>x86_64-pc-linux-gnu</platform_name>
+    <user_friendly_name>Linux/x86_64</user_friendly_name>
+  </platform>
+  <platform>
+    <platform_name>x86_64-unknown-linux-gnu</platform_name>
+    <user_friendly_name>Linux/x86_64</user_friendly_name>
+  </platform>
+</platforms>
+
+</project_config>

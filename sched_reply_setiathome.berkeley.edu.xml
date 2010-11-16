@@ -1,0 +1,134 @@
+<scheduler_reply>
+<scheduler_version>611</scheduler_version>
+<master_url>http://setiathome.berkeley.edu/</master_url>
+<request_delay>303.000000</request_delay>
+<message priority="low">Project has no tasks available</message>
+<project_name>SETI@home</project_name>
+<user_name>Cao Yuwei</user_name>
+<user_total_credit>3363.551496</user_total_credit>
+<user_expavg_credit>0.094085</user_expavg_credit>
+<user_create_time>1078535021</user_create_time>
+<email_hash>271bc085b967a9b5b84ac99eed86d5d3</email_hash>
+<cross_project_id>b293035b63753c9deee82142485cf186</cross_project_id>
+<project_preferences>
+<resource_share>100</resource_share>
+<project_specific>
+<format_preset>Panels</format_preset>
+        <text_style>Panels</text_style>
+        <graph_style>Surface</graph_style>
+        <max_fps>30</max_fps>
+        <max_cpu>50</max_cpu>
+        <grow_time>10</grow_time>
+        <hold_time>5</hold_time>
+        <graph_alpha>0.7</graph_alpha>
+        <roll_period>10</roll_period>
+        <roll_range>20</roll_range>
+        <pitch_period>30</pitch_period>
+        <pitch_range>30</pitch_range>
+        <starfield_size>2000</starfield_size>
+        <starfield_speed>40</starfield_speed>
+        <color_preset>Rainbow</color_preset>
+        <start_hue>0</start_hue>
+        <hue_change>1</hue_change>
+</project_specific>
+</project_preferences>
+
+<host_total_credit>0.000000</host_total_credit>
+<host_expavg_credit>0.000000</host_expavg_credit>
+<host_venue>work</host_venue>
+<host_create_time>1289884162</host_create_time>
+<team_name>Team China</team_name>
+<gui_urls>
+    <gui_url>
+        <name>Message boards</name>
+        <description>Correspond with other users on the SETI@home message boards</description>
+        <url>http://setiathome.berkeley.edu/forum_index.php</url>
+    </gui_url>
+    <gui_url>
+        <name>Help</name>
+        <description>Ask questions and report problems</description>
+        <url>http://setiathome.berkeley.edu/forum_help_desk.php</url>
+    </gui_url>
+    <gui_url>
+        <name>Your account</name>
+        <description>View your account information and credit totals</description>
+        <url>http://setiathome.berkeley.edu/show_user.php?userid=3281223</url>
+    </gui_url>
+    <gui_url>
+        <name>Your preferences</name>
+        <description>View and modify your SETI@home account profile and preferences</description>
+        <url>http://setiathome.berkeley.edu/home.php</url>
+    </gui_url>
+    <gui_url>
+        <name>Your results</name>
+        <description>View your last week (or more) of computational results and work</description>
+        <url>http://setiathome.berkeley.edu/results.php?userid=3281223</url>
+    </gui_url>
+    <gui_url>
+        <name>Your computers</name>
+        <description>View a listing of all the computers on which you are running SETI@Home</description>
+        <url>http://setiathome.berkeley.edu/hosts_user.php?userid=3281223</url>
+    </gui_url>
+    <ifteam>
+        <gui_url>
+            <name>Your team</name>
+            <description>View information about your team: Team China</description>
+            <url>http://setiathome.berkeley.edu/team_display.php?teamid=30289</url>
+        </gui_url>
+    </ifteam>
+    <gui_url>
+        <name>Donate</name>
+        <description>Donate to SETI@home</description>
+        <url>http://setiathome.berkeley.edu/sah_donate.php</url>
+    </gui_url>
+</gui_urls>
+<rss_feeds>
+	<rss_feed>
+		<url>http://setiathome.berkeley.edu/notices.php?userid=3281223&auth=3281223_618ffd2a72432a8dcd636cf548c6b60f</url>
+		<poll_interval>86400</poll_interval>
+	</rss_feed>
+</rss_feeds>
+<file_info>
+    <name>arecibo_181.png</name>
+    <url>http://boinc2.ssl.berkeley.edu/sg_images/arecibo_181.png</url>
+    <md5_cksum>f9b65230a594098d183d2266511bc648</md5_cksum>
+    <nbytes>52779</nbytes>
+</file_info>
+<file_info>
+    <name>sah_40.png</name>
+    <url>http://boinc2.ssl.berkeley.edu/sg_images/sah_40.png</url>
+    <md5_cksum>5791ba1be2d33eaa5f90ecf5de89a53d</md5_cksum>
+    <nbytes>2536</nbytes>
+</file_info>
+<file_info>
+    <name>sah_banner_290.png</name>
+    <url>http://boinc2.ssl.berkeley.edu/sg_images/sah_banner_290.png</url>
+    <md5_cksum>39839286db7f580bef5377322d15ed35</md5_cksum>
+    <nbytes>25488</nbytes>
+</file_info>
+<file_info>
+    <name>sah_ss_290.png</name>
+    <url>http://boinc2.ssl.berkeley.edu/sg_images/sah_ss_290.png</url>
+    <md5_cksum>caf95504208aedd6ac6d82201e2fd8b1</md5_cksum>
+    <nbytes>35399</nbytes>
+</file_info>
+<project_files>
+    <file_ref>
+      <file_name>sah_40.png</file_name>
+      <open_name>stat_icon</open_name>
+    </file_ref>
+    <file_ref>
+      <file_name>sah_ss_290.png</file_name>
+      <open_name>slideshow_setiathome_enhanced_00</open_name>
+    </file_ref>
+    <file_ref>
+      <file_name>arecibo_181.png</file_name>
+      <open_name>slideshow_setiathome_enhanced_01</open_name>
+    </file_ref>
+    <file_ref>
+      <file_name>sah_banner_290.png</file_name>
+      <open_name>slideshow_setiathome_enhanced_02</open_name>
+    </file_ref>
+</project_files>
+
+</scheduler_reply>

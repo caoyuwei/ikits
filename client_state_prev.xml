@@ -1,0 +1,153 @@
+<client_state>
+<host_info>
+    <timezone>28800</timezone>
+    <domain_name>SuN</domain_name>
+    <ip_addr>127.0.0.1</ip_addr>
+    <host_cpid>8cd943fb0fba26593eefcb2250193db4</host_cpid>
+    <p_ncpus>2</p_ncpus>
+    <p_vendor>GenuineIntel</p_vendor>
+    <p_model>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [Family 6 Model 23 Stepping 10]</p_model>
+    <p_features>fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm syscall nx lm constant_tsc pni monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr sse4_1 lahf_lm</p_features>
+    <p_fpops>2161527502.969002</p_fpops>
+    <p_iops>5105957992.115875</p_iops>
+    <p_membw>1000000000.000000</p_membw>
+    <p_calculated>1289884151.213902</p_calculated>
+    <m_nbytes>4010651648.000000</m_nbytes>
+    <m_cache>6291456.000000</m_cache>
+    <m_swap>1077501952.000000</m_swap>
+    <d_total>10158718976.000000</d_total>
+    <d_free>468987904.000000</d_free>
+    <os_name>Linux</os_name>
+    <os_version>2.6.18-194.17.4.el5</os_version>
+</host_info>
+<time_stats>
+    <on_frac>0.999815</on_frac>
+    <connected_frac>-1.000000</connected_frac>
+    <active_frac>0.996823</active_frac>
+    <last_update>1289893819.506496</last_update>
+</time_stats>
+<net_stats>
+    <bwup>8423.225086</bwup>
+    <avg_up>550724279.965631</avg_up>
+    <avg_time_up>1289893820.038581</avg_time_up>
+    <bwdown>483487.486747</bwdown>
+    <avg_down>3390241749.726063</avg_down>
+    <avg_time_down>1289886264.384907</avg_time_down>
+</net_stats>
+<project>
+    <master_url>http://setiathome.berkeley.edu/</master_url>
+    <project_name>SETI@home</project_name>
+    <symstore></symstore>
+    <user_name>Cao Yuwei</user_name>
+    <team_name>Team China</team_name>
+    <host_venue>work</host_venue>
+    <email_hash>271bc085b967a9b5b84ac99eed86d5d3</email_hash>
+    <cross_project_id>b293035b63753c9deee82142485cf186</cross_project_id>
+    <cpid_time>1078535021.000000</cpid_time>
+    <user_total_credit>3363.551496</user_total_credit>
+    <user_expavg_credit>0.094085</user_expavg_credit>
+    <user_create_time>1078535021.000000</user_create_time>
+    <rpc_seqno>8</rpc_seqno>
+    <hostid>5602787</hostid>
+    <host_total_credit>0.000000</host_total_credit>
+    <host_expavg_credit>0.000000</host_expavg_credit>
+    <host_create_time>1289884162.000000</host_create_time>
+    <nrpc_failures>0</nrpc_failures>
+    <master_fetch_failures>0</master_fetch_failures>
+    <min_rpc_time>1289894123.509464</min_rpc_time>
+    <next_rpc_time>0.000000</next_rpc_time>
+    <short_term_debt>0.000000</short_term_debt>
+    <long_term_debt>0.000000</long_term_debt>
+    <cpu_backoff_interval>15360.000000</cpu_backoff_interval>
+    <cpu_backoff_time>1289902820.297917</cpu_backoff_time>
+    <cuda_short_term_debt>0.000000</cuda_short_term_debt>
+    <cuda_debt>0.000000</cuda_debt>
+    <cuda_backoff_interval>0.000000</cuda_backoff_interval>
+    <cuda_backoff_time>0.000000</cuda_backoff_time>
+    <ati_short_term_debt>0.000000</ati_short_term_debt>
+    <ati_debt>0.000000</ati_debt>
+    <ati_backoff_interval>0.000000</ati_backoff_interval>
+    <ati_backoff_time>0.000000</ati_backoff_time>
+    <resource_share>100.000000</resource_share>
+    <duration_correction_factor>1.000000</duration_correction_factor>
+    <sched_rpc_pending>0</sched_rpc_pending>
+    <send_time_stats_log>0</send_time_stats_log>
+    <send_job_log>0</send_job_log>
+    <scheduler_url>http://setiboinc.ssl.berkeley.edu/sah_cgi/cgi</scheduler_url>
+    <code_sign_key>
+1024
+eb363c5c50af51976b50edeaf169274329a2c15721585e20694abd7d1eda7e22
+6c0d0b39836ffe044743efe4abdae0176f7433e308aea9f686338f944eef2d2a
+f9ad8e452579e9a641f0cf6fe4d636489c64c1a47dba985175cbfbda9ad459f8
+e1553cdb9096b0b057088db58799ed90b91fc0fe9925ab288236f995a781ec05
+0000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000000000010001
+.
+</code_sign_key>
+</project>
+<file_info>
+    <name>arecibo_181.png</name>
+    <nbytes>52779.000000</nbytes>
+    <max_nbytes>0.000000</max_nbytes>
+    <md5_cksum>f9b65230a594098d183d2266511bc648</md5_cksum>
+    <status>1</status>
+    <url>http://boinc2.ssl.berkeley.edu/sg_images/arecibo_181.png</url>
+</file_info>
+<file_info>
+    <name>sah_40.png</name>
+    <nbytes>2536.000000</nbytes>
+    <max_nbytes>0.000000</max_nbytes>
+    <md5_cksum>5791ba1be2d33eaa5f90ecf5de89a53d</md5_cksum>
+    <status>1</status>
+    <url>http://boinc2.ssl.berkeley.edu/sg_images/sah_40.png</url>
+</file_info>
+<file_info>
+    <name>sah_banner_290.png</name>
+    <nbytes>25488.000000</nbytes>
+    <max_nbytes>0.000000</max_nbytes>
+    <md5_cksum>39839286db7f580bef5377322d15ed35</md5_cksum>
+    <status>1</status>
+    <url>http://boinc2.ssl.berkeley.edu/sg_images/sah_banner_290.png</url>
+</file_info>
+<file_info>
+    <name>sah_ss_290.png</name>
+    <nbytes>35399.000000</nbytes>
+    <max_nbytes>0.000000</max_nbytes>
+    <md5_cksum>caf95504208aedd6ac6d82201e2fd8b1</md5_cksum>
+    <status>1</status>
+    <url>http://boinc2.ssl.berkeley.edu/sg_images/sah_ss_290.png</url>
+</file_info>
+<project_files>
+    <file_ref>
+        <file_name>sah_40.png</file_name>
+        <open_name>stat_icon</open_name>
+    </file_ref>
+    <file_ref>
+        <file_name>sah_ss_290.png</file_name>
+        <open_name>slideshow_setiathome_enhanced_00</open_name>
+    </file_ref>
+    <file_ref>
+        <file_name>arecibo_181.png</file_name>
+        <open_name>slideshow_setiathome_enhanced_01</open_name>
+    </file_ref>
+    <file_ref>
+        <file_name>sah_banner_290.png</file_name>
+        <open_name>slideshow_setiathome_enhanced_02</open_name>
+    </file_ref>
+</project_files>
+<active_task_set>
+</active_task_set>
+<platform_name>x86_64-pc-linux-gnu</platform_name>
+<core_client_major_version>6</core_client_major_version>
+<core_client_minor_version>10</core_client_minor_version>
+<core_client_release>58</core_client_release>
+<user_run_request>2</user_run_request>
+<user_gpu_request>2</user_gpu_request>
+<user_network_request>2</user_network_request>
+<new_version_check_time>1289884161.241784</new_version_check_time>
+<all_projects_list_check_time>1289884042.120330</all_projects_list_check_time>
+<alt_platform>i686-pc-linux-gnu</alt_platform>
+<host_venue>work</host_venue>
+</client_state>

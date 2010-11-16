@@ -1,0 +1,145 @@
+16-Nov-2010 13:07:18 [---] Starting BOINC client version 6.10.58 for x86_64-pc-linux-gnu
+16-Nov-2010 13:07:18 [---] log flags: file_xfer, sched_ops, task
+16-Nov-2010 13:07:18 [---] Libraries: libcurl/7.18.0 OpenSSL/0.9.8g zlib/1.2.3 c-ares/1.5.1
+16-Nov-2010 13:07:18 [---] Data directory: /root/BOINC
+16-Nov-2010 13:07:18 [---] Processor: 2 GenuineIntel Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [Family 6 Model 23 Stepping 10]
+16-Nov-2010 13:07:18 [---] Processor: 6.00 MB cache
+16-Nov-2010 13:07:18 [---] Processor features: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm syscall nx lm constant_tsc pni monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr sse4_1 lahf_lm
+16-Nov-2010 13:07:18 [---] OS: Linux: 2.6.18-194.17.4.el5
+16-Nov-2010 13:07:18 [---] Memory: 3.74 GB physical, 1.00 GB virtual
+16-Nov-2010 13:07:18 [---] Disk: 9.46 GB total, 447.67 MB free
+16-Nov-2010 13:07:18 [---] Local time is UTC +8 hours
+16-Nov-2010 13:07:20 [---] No usable GPUs found
+16-Nov-2010 13:07:20 [---] No general preferences found - using BOINC defaults
+16-Nov-2010 13:07:20 [---] Preferences:
+16-Nov-2010 13:07:20 [---]    max memory usage when active: 1912.43MB
+16-Nov-2010 13:07:20 [---]    max memory usage when idle: 3442.37MB
+16-Nov-2010 13:07:20 [---]    max disk usage: 0.35GB
+16-Nov-2010 13:07:20 [---]    don't use GPU while active
+16-Nov-2010 13:07:20 [---]    suspend work if non-BOINC CPU load exceeds 25 %
+16-Nov-2010 13:07:20 [---]    (to change preferences, visit the web site of an attached project, or select Preferences in the Manager)
+16-Nov-2010 13:07:20 [---] Not using a proxy
+16-Nov-2010 13:07:20 [---] This computer is not attached to any projects
+16-Nov-2010 13:07:20 [---] Visit http://boinc.berkeley.edu for instructions
+Initialization completed
+16-Nov-2010 13:07:56 [---] Fetching configuration file from http://setiathome.berkeley.edu/get_project_config.php
+16-Nov-2010 13:08:39 [---] Running CPU benchmarks
+16-Nov-2010 13:08:39 [---] Suspending computation - running CPU benchmarks
+16-Nov-2010 13:08:39 [---] Running CPU benchmarks
+16-Nov-2010 13:08:39 [---] Running CPU benchmarks
+16-Nov-2010 13:09:11 [---] Benchmark results:
+16-Nov-2010 13:09:11 [---]    Number of CPUs: 2
+16-Nov-2010 13:09:11 [---]    2162 floating point MIPS (Whetstone) per CPU
+16-Nov-2010 13:09:11 [---]    5106 integer MIPS (Dhrystone) per CPU
+16-Nov-2010 13:09:11 [---] Resuming computation
+16-Nov-2010 13:09:13 [SETI@home] Master file download succeeded
+16-Nov-2010 13:09:18 [SETI@home] Sending scheduler request: Project initialization.
+16-Nov-2010 13:09:18 [SETI@home] Requesting new tasks
+16-Nov-2010 13:09:23 [SETI@home] Scheduler request completed: got 0 new tasks
+16-Nov-2010 13:09:23 [SETI@home] Message from server: Project has no tasks available
+16-Nov-2010 13:09:23 [SETI@home] New computer location: work
+16-Nov-2010 13:09:23 [SETI@home] General prefs: from SETI@home (last modified 09-Nov-2006 04:02:02)
+16-Nov-2010 13:09:23 [SETI@home] Computer location: work
+16-Nov-2010 13:09:23 [SETI@home] General prefs: no separate prefs for work; using your defaults
+16-Nov-2010 13:09:23 [---] Preferences:
+16-Nov-2010 13:09:23 [---]    max memory usage when active: 1912.43MB
+16-Nov-2010 13:09:23 [---]    max memory usage when idle: 3442.37MB
+16-Nov-2010 13:09:23 [---]    max disk usage: 0.45GB
+16-Nov-2010 13:09:23 [---]    don't compute while active
+16-Nov-2010 13:09:23 [---]    don't use GPU while active
+16-Nov-2010 13:09:23 [---]    suspend work if non-BOINC CPU load exceeds 25 %
+16-Nov-2010 13:09:23 [---]    (to change preferences, visit the web site of an attached project, or select Preferences in the Manager)
+16-Nov-2010 13:09:23 [---] Suspending computation - user is active
+16-Nov-2010 13:09:23 [---] Suspending file transfers - user is active
+16-Nov-2010 13:10:20 [---] Exit requested by user
+16-Nov-2010 13:10:20 [---] [error] Deleting file arecibo_181.png while in use
+16-Nov-2010 13:10:20 [---] [error] Deleting file sah_40.png while in use
+16-Nov-2010 13:10:20 [---] [error] Deleting file sah_banner_290.png while in use
+16-Nov-2010 13:10:20 [---] [error] Deleting file sah_ss_290.png while in use
+16-Nov-2010 13:12:51 [---] Starting BOINC client version 6.10.58 for x86_64-pc-linux-gnu
+16-Nov-2010 13:12:51 [---] log flags: file_xfer, sched_ops, task
+16-Nov-2010 13:12:51 [---] Libraries: libcurl/7.18.0 OpenSSL/0.9.8g zlib/1.2.3 c-ares/1.5.1
+16-Nov-2010 13:12:51 [---] Running as a daemon
+16-Nov-2010 13:12:51 [---] Data directory: /root/BOINC
+16-Nov-2010 13:12:51 [---] Processor: 2 GenuineIntel Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz [Family 6 Model 23 Stepping 10]
+16-Nov-2010 13:12:51 [---] Processor: 6.00 MB cache
+16-Nov-2010 13:12:51 [---] Processor features: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm syscall nx lm constant_tsc pni monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr sse4_1 lahf_lm
+16-Nov-2010 13:12:51 [---] OS: Linux: 2.6.18-194.17.4.el5
+16-Nov-2010 13:12:51 [---] Memory: 3.74 GB physical, 1.00 GB virtual
+16-Nov-2010 13:12:51 [---] Disk: 9.46 GB total, 447.54 MB free
+16-Nov-2010 13:12:51 [---] Local time is UTC +8 hours
+16-Nov-2010 13:12:52 [---] No usable GPUs found
+16-Nov-2010 13:12:52 [SETI@home] URL http://setiathome.berkeley.edu/; Computer ID 5602787; resource share 100
+16-Nov-2010 13:12:52 [SETI@home] General prefs: from SETI@home (last modified 09-Nov-2006 04:02:02)
+16-Nov-2010 13:12:52 [SETI@home] Computer location: work
+16-Nov-2010 13:12:52 [SETI@home] General prefs: no separate prefs for work; using your defaults
+16-Nov-2010 13:12:52 [---] Preferences:
+16-Nov-2010 13:12:52 [---]    max memory usage when active: 1912.43MB
+16-Nov-2010 13:12:52 [---]    max memory usage when idle: 3442.37MB
+16-Nov-2010 13:12:52 [---]    max disk usage: 0.45GB
+16-Nov-2010 13:12:52 [---]    don't compute while active
+16-Nov-2010 13:12:52 [---]    don't use GPU while active
+16-Nov-2010 13:12:52 [---]    suspend work if non-BOINC CPU load exceeds 25 %
+16-Nov-2010 13:12:52 [---]    (to change preferences, visit the web site of an attached project, or select Preferences in the Manager)
+16-Nov-2010 13:12:52 [---] Not using a proxy
+16-Nov-2010 13:12:52 [---] Suspending computation - user is active
+16-Nov-2010 13:12:52 [---] Suspending network activity - user is active
+16-Nov-2010 13:44:18 [---] Resuming network activity
+16-Nov-2010 13:44:18 [SETI@home] Started download of arecibo_181.png
+16-Nov-2010 13:44:18 [SETI@home] Started download of sah_40.png
+16-Nov-2010 13:44:18 [SETI@home] Sending scheduler request: To fetch work.
+16-Nov-2010 13:44:18 [SETI@home] Requesting new tasks
+16-Nov-2010 13:44:22 [SETI@home] Scheduler request completed: got 0 new tasks
+16-Nov-2010 13:44:22 [SETI@home] Message from server: Project has no tasks available
+16-Nov-2010 13:44:22 [SETI@home] Finished download of arecibo_181.png
+16-Nov-2010 13:44:22 [SETI@home] Finished download of sah_40.png
+16-Nov-2010 13:44:22 [SETI@home] Started download of sah_banner_290.png
+16-Nov-2010 13:44:22 [SETI@home] Started download of sah_ss_290.png
+16-Nov-2010 13:44:25 [SETI@home] Finished download of sah_banner_290.png
+16-Nov-2010 13:44:25 [SETI@home] Finished download of sah_ss_290.png
+16-Nov-2010 13:49:25 [SETI@home] Sending scheduler request: To fetch work.
+16-Nov-2010 13:49:25 [SETI@home] Requesting new tasks
+16-Nov-2010 13:49:30 [SETI@home] Scheduler request completed: got 0 new tasks
+16-Nov-2010 13:49:30 [SETI@home] Message from server: Project has no tasks available
+16-Nov-2010 13:54:35 [SETI@home] Sending scheduler request: To fetch work.
+16-Nov-2010 13:54:35 [SETI@home] Requesting new tasks
+16-Nov-2010 13:54:41 [SETI@home] Scheduler request completed: got 0 new tasks
+16-Nov-2010 13:54:41 [SETI@home] Message from server: Project has no tasks available
+16-Nov-2010 13:59:59 [SETI@home] Sending scheduler request: To fetch work.
+16-Nov-2010 13:59:59 [SETI@home] Requesting new tasks
+16-Nov-2010 14:00:04 [SETI@home] Scheduler request completed: got 0 new tasks
+16-Nov-2010 14:00:04 [SETI@home] Message from server: Project has no tasks available
+16-Nov-2010 14:12:33 [---] Suspending computation - user is active
+16-Nov-2010 14:12:33 [---] Suspending network activity - user is active
+16-Nov-2010 14:15:40 [---] Resuming computation
+16-Nov-2010 14:15:40 [---] Resuming network activity
+16-Nov-2010 14:15:40 [SETI@home] Sending scheduler request: To fetch work.
+16-Nov-2010 14:15:40 [SETI@home] Requesting new tasks
+16-Nov-2010 14:15:45 [SETI@home] Scheduler request completed: got 0 new tasks
+16-Nov-2010 14:15:45 [SETI@home] Message from server: Project has no tasks available
+16-Nov-2010 14:19:33 [---] Suspending computation - user is active
+16-Nov-2010 14:19:33 [---] Suspending network activity - user is active
+16-Nov-2010 14:29:39 [---] Resuming computation
+16-Nov-2010 14:29:39 [---] Resuming network activity
+16-Nov-2010 14:29:39 [SETI@home] Sending scheduler request: To fetch work.
+16-Nov-2010 14:29:39 [SETI@home] Requesting new tasks
+16-Nov-2010 14:29:44 [SETI@home] Scheduler request completed: got 0 new tasks
+16-Nov-2010 14:29:44 [SETI@home] Message from server: Project has no tasks available
+16-Nov-2010 15:07:37 [SETI@home] Sending scheduler request: To fetch work.
+16-Nov-2010 15:07:37 [SETI@home] Requesting new tasks
+16-Nov-2010 15:07:42 [SETI@home] Scheduler request completed: got 0 new tasks
+16-Nov-2010 15:07:42 [SETI@home] Message from server: Project has no tasks available
+16-Nov-2010 15:50:15 [SETI@home] Sending scheduler request: To fetch work.
+16-Nov-2010 15:50:15 [SETI@home] Requesting new tasks
+16-Nov-2010 15:50:20 [SETI@home] Scheduler request completed: got 0 new tasks
+16-Nov-2010 15:50:20 [SETI@home] Message from server: Project has no tasks available
+16-Nov-2010 17:06:28 [---] Suspending computation - user is active
+16-Nov-2010 17:06:28 [---] Suspending network activity - user is active
+16-Nov-2010 17:25:07 [---] Resuming computation
+16-Nov-2010 17:25:07 [---] Resuming network activity
+16-Nov-2010 18:21:03 [SETI@home] Sending scheduler request: To fetch work.
+16-Nov-2010 18:21:03 [SETI@home] Requesting new tasks
+16-Nov-2010 18:21:09 [SETI@home] Scheduler request completed: got 0 new tasks
+16-Nov-2010 18:21:09 [SETI@home] Message from server: Project has no tasks available
+16-Nov-2010 18:45:09 [---] Suspending computation - user is active
+16-Nov-2010 18:45:09 [---] Suspending network activity - user is active
